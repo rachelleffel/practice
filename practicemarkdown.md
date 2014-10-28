@@ -1,4 +1,4 @@
-This is my ** practice**  repo.
+This is my **practice**  repo.
 ===============================
 
 I'm *practicing* using Git and creating markdown files.
@@ -8,7 +8,7 @@ I'm *practicing* using Git and creating markdown files.
 
 ###This is what I know how to do so far.
 
-*I can also make unordered lists.
-*Thanks, Coursera!
+* I can also make unordered lists.
+* Thanks, Coursera!
 
 
