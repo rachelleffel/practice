@@ -1,4 +1,4 @@
-This is my **practice**  repo.
+This is my __practice__  repo.
 ===============================
 
 I'm *practicing* using Git and creating markdown files.
