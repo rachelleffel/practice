@@ -10,5 +10,7 @@ I'm *practicing* using Git and creating markdown files.
 
 * I can also make unordered lists.
 * **Thanks, Coursera!**
+* Check out my [facebook]!(https://facebook.com/rachel.leffel.9)
+
 
 
